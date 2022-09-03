@@ -85,6 +85,7 @@ const Profile = () => {
                 id="photo"
                 onChange={(e) => setImg(e.target.files[0])}
               />
+              {/* <Delete /> */}
             </div>
           </div>
         </div>
